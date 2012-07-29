@@ -1,9 +1,20 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
+# Java class files
+*.class
 
-# Project property files
-.actionScriptProperties
-.flexProperties
-.settings/
+# Binary Folders
+bin/
+gen/
+binary/
+compiled/
+output/
+
+# Eclipse Files
+.classpath
 .project
+
+# Git Files
+.git/
+
+# IntelliJ Files
+*.iml
+.idea
